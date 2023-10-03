@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.wrapper {
+    background-color:black;
+}
+
+.greeting {
+    margin: 0 20px 10px 10px;
+    padding-left: 10px;
+    color:dodgerblue;
+}
+
+.welcome {
+    margin: 0 20px 10px 10px;
+    padding-left: 10px;
+    color:lightseagreen
+}
+
+.separator {
+    height: 150px;
+}
+
+.paragraph {
+    margin: 0 20px 10px 10px;
+    padding-left: 10px;
+    color:chartreuse;
+}
+
